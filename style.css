@@ -41,3 +41,7 @@ a:hover {
 .item {
   margin-right: 40px;
 }
+
+.carousel-inner {
+  height: 500px;
+}
